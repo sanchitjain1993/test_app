@@ -33,10 +33,19 @@ font-size: 1.7em;
 background-color: black;
 }
 footer {
+    //height: 100px;
+    bottom: 0;
+    
+    //position: relative;
+  //bottom: 0;
+  width: 100%;
+   
 margin-top: 45px;
 padding-top: 5px;
 border-top: 1px solid #eaeaea;
 color: #777;
+height: 60px;
+  
 }
 footer a:hover {
 color: #222;
